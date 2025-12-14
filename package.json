@@ -92,6 +92,7 @@
       ]
     },
     "snap": {
+      "allowNativeWayland": true,
       "synopsis": "Zulip Desktop App"
     },
     "dmg": {
